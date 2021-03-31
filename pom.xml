@@ -40,7 +40,7 @@
         <play-json.version>2.7.3</play-json.version>
         <play-ws-standalone.version>2.0.3</play-ws-standalone.version>
         <play-ahc-ws-standalone.version>2.0.2</play-ahc-ws-standalone.version>
-        <spring-boot-starter-web.version>2.0.0.RELEASE</spring-boot-starter-web.version>
+        <spring-boot-starter-web.version>2.4.3</spring-boot-starter-web.version>
         <jackson-module.version>2.9.8</jackson-module.version>
         <spring-boot-starter-tomcat.version>2.0.0.RELEASE</spring-boot-starter-tomcat.version>
         <alchim31>3.2.0</alchim31>
