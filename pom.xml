@@ -42,7 +42,7 @@
         <play-ahc-ws-standalone.version>2.0.2</play-ahc-ws-standalone.version>
         <spring-boot-starter-web.version>2.0.0.RELEASE</spring-boot-starter-web.version>
         <jackson-module.version>2.9.8</jackson-module.version>
-        <spring-boot-starter-tomcat.version>2.0.0.RELEASE</spring-boot-starter-tomcat.version>
+        <spring-boot-starter-tomcat.version>2.4.3</spring-boot-starter-tomcat.version>
         <alchim31>3.2.0</alchim31>
         <openui5.version>1.60.2</openui5.version>
         <lodash.version>4.17.10</lodash.version>
