@@ -53,7 +53,7 @@
         <maven.war.version>2.2</maven.war.version>
         <log4j.version>2.11.1</log4j.version>
         <slf4j.log4j2.version>1.7.26</slf4j.log4j2.version>
-        <spring.ldap.version>5.0.3.RELEASE</spring.ldap.version>
+        <spring.ldap.version>5.4.5</spring.ldap.version>
         <scalatest.version>3.0.5</scalatest.version>
         <h2database.version>1.4.200</h2database.version>
         <mockito.version>2.25.0</mockito.version>
